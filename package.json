@@ -14,7 +14,7 @@
   "license": "ISC",
   "homepage": "https://github.com/rusovd/ws-first-steps.git",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ws": "^7.1.0"
   },
   "devDependencies": {
